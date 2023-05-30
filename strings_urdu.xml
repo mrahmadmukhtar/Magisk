@@ -1,0 +1,246 @@
+<resources>  
+  
+    <!--Sections-->  
+    <string name="modules">موڈیولز </string>  
+    <string name="superuser">سپر یوزر</string>  
+    <string name="logs">لاگز</string>  
+    <string name="settings">سیٹنگز </string>  
+    <string name="install">انسٹال </string>  
+    <string name="section_home">ہوم</string>  
+    <string name="section_theme">تھیمز </string>  
+    <string name="denylist">ڈینائے لسٹ</string>  
+  
+    <!--Home-->  
+    <string name="no_connection">کوئی کنکشن دستیاب نہیں ہے۔</string>  
+    <string name="app_changelog">چینج لاگ</string>  
+    <string name="loading">لوڈ ہو رہا ہے…</string>  
+    <string name="update">اپ ڈیٹ</string>  
+    <string name="not_available">N/A</string>  
+    <string name="hide">چھپائیں</string>  
+    <string name="home_package">پیکج</string>  
+    <string name="home_app_title">ایپ</string>  
+  
+    <string name="home_notice_content">یقینی بنائیں کہ آپ نے خصوصی طور پر آفیشل GitHub پیج سےہی Magisk ڈؤان لوڈ کیا ہے۔  غیر مانوس ذرائع سے فائلوں کو ڈاؤن لوڈ کرنے سے گریز کرنا بہت ضروری ہے کیونکہ ان میں نقصان دہ عناصر ہوسکتے ہیں۔</string>  
+    <string name="home_support_title"> ہمیں اپنا تعاون فراہم کریں۔</string>  
+    <string name="home_follow_title">ہمیں فالو کریں</string>  
+    <string name="home_item_source">ذریعہ</string>  
+    <string name="home_support_content">محترم صارفین، ہم اس بات پر زور دینا چاہتے ہیں کہ Magisk آپ کے لیے بالکل مفت اور اوپن سورس فارمیٹ میں دستیاب ہے، اور رہے گا۔ آپ ہمیں ڈونیشن دے سکتے ہیں۔  ہم آپ کے تعاون کی دل کی اتھاہ گہرائیوں سے تعریف کرتے ہیں۔  آپ کی سخاوت Magisk کے ساتھ ایک غیر معمولی تجربہ فراہم کرنے کے لیے ہماری لگن کو تقویت دیتی ہے۔  آپ کے تعاون کے لئے شکریہ.</string>  
+    <string name="home_installed_version">انسٹال ہو گیا</string>  
+    <string name="home_latest_version">تازہ ترین</string>  
+    <string name="invalid_update_channel">غلط اپ ڈیٹ چینل</string>  
+    <string name="uninstall_magisk_title">میجسک (Magisk) کو ان انسٹال کریں۔</string>  
+    <string name="uninstall_magisk_msg">تمام ماڈیولز کو غیر فعال/ہٹا دیا جائے گا!\nروٹ کو ہٹا دیا جائے گا!\nMagisk کے استعمال سے کوئی بھی اَن اِنکرپٹڈ انٹرنل اسٹوریج دوبارہ انکرپٹ ہو جائے گا!</string>  
+  
+    <!--Install-->  
+    <string name="keep_force_encryption">فورس انکرپشن کو محفوظ رکھیں</string>  
+    <string name="keep_dm_verity">ںAVB 2.0/dm-verity کو محفوظ کریں۔</string>  
+    <string name="patch_vbmeta">بوٹ امیج میں vbmeta پیچ کریں۔</string>  
+    <string name="recovery_mode">ریکوری موڈ</string>  
+    <string name="install_options_title">اختیارات</string>  
+    <string name="install_method_title">طریقہ</string>  
+    <string name="install_next">اگلا</string>  
+    <string name="install_start">چلو</string>  
+    <string name="manager_download_install">ڈاؤن لوڈ اور انسٹال کرنے کے لیے کلک کریں۔</string>  
+    <string name="direct_install">ڈائریکٹ انسٹال (تجویز کردہ)</string>  
+    <string name="install_inactive_slot">غیر فعال سلاٹ پر انسٹال کریں (OTA کے بعد)</string>  
+    <string name="install_inactive_slot_msg">آپ کے ڈیوائس کو ری بوٹ کے بعد موجودہ غیر فعال سلاٹ پر بوٹ کرنے پر فورس کیا جائے گا!\nاس اختیار کو OTA مکمل ہونے کے بعد ہی استعمال کریں۔\nجاری رکھیں؟</string>  
+    <string name="setup_title">اضافی سیٹ اپ</string>  
+    <string name="select_patch_file">ایک فائل کو منتخب کریں اور پیچ کریں۔</string>  
+    <string name="patch_file_msg">ایک raw تصویر (*.img) یا ODIN tarfile (*.tar) یا payload.bin (*.bin) منتخب کریں۔</string>  
+    <string name="reboot_delay_toast">5 سیکنڈ میں ری بوٹ ہو رہا ہے…</string>  
+    <string name="flash_screen_title">انسٹالیشن </string>  
+  
+    <!--Superuser-->  
+    <string name="su_request_title">سپر یوزر کی درخواست</string>  
+    <string name="touch_filtered_warning">چونکہ ایک ایپ سپر یوزر کی درخواست کو دھندلا رہی ہے، اس لیے Magisk آپ کے جواب کی تصدیق نہیں کر سکتا</string>  
+    <string name="deny">انکار کریں</string>  
+    <string name="prompt">پرومپٹ</string>  
+    <string name="grant">اجازت دیں</string>  
+    <string name="su_warning">آپ کے ڈیوائس تک مکمل رسائی فراہم کرتا ہے۔\nاگر آپ کو پتا نہیں ہے تو انکار کریں!</string>  
+    <string name="forever">ہمیشہ کے لیے</string>  
+    <string name="once">ایک بار</string>  
+    <string name="tenmin">10 منٹ</string>  
+    <string name="twentymin">20 منٹ</string>  
+    <string name="thirtymin">30 منٹ</string>  
+    <string name="sixtymin">60 منٹ</string>  
+    <string name="su_allow_toast">محترم صارف، %1$s کو سپر یوزر رائٹس دے دیے گئے تھے۔</string>  
+    <string name="su_deny_toast">محترم صارف، %1$s کے لیے سپر یوزر کی رسائی کو مسترد کر دیا گیا ہے۔</string>  
+    <string name="su_snack_grant">سپر یوزر کی رسائی %1$s کو دے دی گئی ہے۔</string>  
+    <string name="su_snack_deny">محترم صارف، %1$s کے لیے سپر یوزر کی رسائی کو مسترد کر دیا گیا ہے۔</string>  
+    <string name="su_snack_notif_on">اب %1$s کے لیے اطلاعات فعال ہیں۔</string>  
+    <string name="su_snack_notif_off">اب %1$s کے لیے اطلاعات غیر فعال ہیں۔</string>  
+    <string name="su_snack_log_on">اب %1$s کی لاگنگ فعال ہے۔</string>  
+    <string name="su_snack_log_off">اب %1$s کی لاگنگ غیر فعال ہے۔</string>  
+    <string name="su_revoke_title">منسوخ کریں؟</string>  
+    <string name="su_revoke_msg">آپ %1$s سپر یوزر کے حقوق منسوخ کرنے کی تصدیق کریں۔</string>  
+    <string name="toast">ٹوسٹ</string>  
+    <string name="none">کوئی نہیں۔</string>  
+  
+    <string name="superuser_toggle_notification">نوٹیفکیشنز </string>  
+    <string name="superuser_toggle_revoke">منسوخ کریں</string>  
+    <string name="superuser_policy_none">ابھی تک کسی ایپس نے سپر یوزر کی اجازت نہیں مانگی ہے۔</string>  
+  
+    <!--Logs-->  
+    <string name="log_data_none">آپ لاگ فری ہیں، اپنی روٹ ایپس کو مزید استعمال کرنے کی کوشش کریں۔</string>  
+    <string name="log_data_magisk_none">میجسک (Magisk) لاگز خالی ہیں، یہ عجیب ہے۔</string>  
+    <string name="menuSaveLog">لاگ محفوظ کریں</string>  
+    <string name="menuClearLog">لاگز کو صاف کریں</string>  
+    <string name="logs_cleared">لاگ کامیابی کے ساتھ صاف ہو گیا.</string>  
+    <string name="pid">PID: %1$d</string>  
+    <string name="target_uid">ٹارگٹ UID: %1$d</string>  
+  
+    <!--SafetyNet-->  
+  
+    <!--MagiskHide-->  
+    <string name="show_system_app">سسٹم ایپس دکھائیں۔</string>  
+    <string name="show_os_app">OS ایپس دکھائیں۔</string>  
+    <string name="hide_filter_hint">نام سے فلٹر کریں۔</string>  
+    <string name="hide_search">تلاش کریں۔</string>  
+  
+    <!--Module-->  
+    <string name="no_info_provided">(کوئی معلومات فراہم نہیں کی گئی)</string>  
+    <string name="reboot_userspace">سافٹ ری بوٹ</string>  
+    <string name="reboot_recovery">ریکوری پر ریبوٹ کریں۔</string>  
+    <string name="reboot_bootloader">بوٹ لوڈر پر ریبوٹ کریں۔</string>  
+    <string name="reboot_download">ڈاؤن لوڈ کرنے کے لیے ریبوٹ کریں۔</string>  
+    <string name="reboot_edl">EDL پر ریبوٹ کریں۔</string>  
+    <string name="module_version_author">%1$s by %2$s</string>  
+    <string name="module_state_remove">ریموو کریں</string>  
+    <string name="module_state_restore">ری سٹور کریں </string>  
+    <string name="module_action_install_external">اسٹوریج سے انسٹال کریں۔</string>  
+    <string name="update_available">اپ ڈیٹ دستیاب ہے۔</string>  
+    <string name="suspend_text_riru">ماڈیول معطل ہے کیونکہ %1$s فعال ہے۔</string>  
+    <string name="suspend_text_zygisk">ماڈیول معطل ہے کیونکہ %1$s فعال نہیں ہے۔</string>  
+    <string name="zygisk_module_unloaded">زیجسک Zygisk ماڈیول عدم مطابقت کی وجہ سے لوڈ نہیں ہوا۔</string>  
+    <string name="module_empty">کوئی ماڈیول انسٹال نہیں ہے۔</string>  
+    <string name="confirm_install">ماڈیول %1$s انسٹال کریں؟</string>  
+    <string name="confirm_install_title"> انسٹال کنفرمیشن۔</string>  
+  
+    <!--Settings-->  
+    <string name="settings_dark_mode_title">تھیم موڈ</string>  
+    <string name="settings_dark_mode_message">وہ موڈ منتخب کریں جو آپ کے منفرد انداز اور ترجیحات کے ساتھ بغیر کسی رکاوٹ کے سیدھ میں ہو!</string>  
+    <string name="settings_dark_mode_light">ہمیشہ لائٹ</string>  
+    <string name="settings_dark_mode_system">سسٹم کے مطابق </string>  
+    <string name="settings_dark_mode_dark">ہمیشہ ڈارک</string>  
+    <string name="settings_download_path_title">ڈاؤن لوڈ پاتھ </string>  
+    <string name="settings_download_path_message">فائلیں %1$s میں محفوظ کی جائیں گی۔</string>  
+    <string name="settings_hide_app_title">میجسک (Magisk) ایپ کو چھپائیں۔</string>  
+    <string name="settings_hide_app_summary">رینڈم پیکیج ID اور کسٹم ایپ لیبل کے ساتھ ایک پراکسی ایپ انسٹال کریں۔</string>  
+    <string name="settings_restore_app_title">میجسک Magisk ایپ کو ری سٹور کریں۔</string>  
+    <string name="settings_restore_app_summary">ایپلیکیشن کو ظاہر کریں اور اصل APK کو ری سٹور کریں۔</string>  
+    <string name="language">زبان</string>  
+    <string name="system_default">(سسٹم ڈیفالٹ)</string>  
+    <string name="settings_check_update_title">اپڈیٹس چیک کریں۔</string>  
+    <string name="settings_check_update_summary">وقتا فوقتا بیک گراؤنڈ میں اپ ڈیٹس کی جانچ کرتے رہیں۔</string>  
+    <string name="settings_update_channel_title">اپڈیٹ چینل</string>  
+    <string name="settings_update_stable">سٹیبل</string>  
+    <string name="settings_update_beta">بِیٹا(beta)</string>  
+    <string name="settings_update_custom">کسٹم</string>  
+    <string name="settings_update_custom_msg">ایک کسٹم چینل URL درج کریں۔</string>  
+    <string name="settings_zygisk_summary">زائگوٹ ڈیمون میں Magisk کے حصے چلائیں۔</string>  
+    <string name="settings_denylist_title">DenyList کو نافذ کریں۔</string>  
+    <string name="settings_denylist_summary">اگر denylist میں کوئی عمل شامل کیا جاتا ہے، تو Magisk کی طرف سے کی گئی تمام ترامیم کو اس عمل کے لیے کالعدم کر دیا جائے گا۔</string>  
+    <string name="settings_denylist_error">اس خصوصیت کو %1$s کو فعال کرنے کی ضرورت ہے۔</string>  
+    <string name="settings_denylist_config_title">ڈینائے لسٹ DenyList کو ترتیب دیں۔</string>  
+    <string name="settings_denylist_config_summary"> ڈینائے لِسٹ DenyList میں شامل کیے جانے والے عمل کو منتخب کریں۔</string>  
+    <string name="settings_hosts_title">سسٹم لیس(system less) ہوسٹس</string>  
+    <string name="settings_hosts_summary">اشتہار کو مسدود کرنے والی ایپس کے لیے سسٹم لیس ہوسٹ سپورٹ</string>  
+    <string name="settings_hosts_toast">سسٹم لیس ہوسٹ ماڈیول شامل کر دیا گیا۔</string>  
+    <string name="settings_app_name_hint">نیا نام</string>  
+    <string name="settings_app_name_helper">ایپ کو اس نام کے ساتھ دوبارہ پیک کیا جائے گا۔</string>  
+    <string name="settings_app_name_error">غلط فارمیٹ</string>  
+    <string name="settings_su_app_adb">ایپس اور ADB</string>  
+    <string name="settings_su_app">صرف ایپس</string>  
+    <string name="settings_su_adb">صرف ADB</string>  
+    <string name="settings_su_disable">غیر فعال </string>  
+    <string name="settings_su_request_10">10 سیکنڈ</string>  
+    <string name="settings_su_request_15">15 سیکنڈ</string>  
+    <string name="settings_su_request_20">20 سیکنڈ</string>  
+    <string name="settings_su_request_30">30 سیکنڈ</string>  
+    <string name="settings_su_request_45">45 سیکنڈ</string>  
+    <string name="settings_su_request_60">60 سیکنڈ</string>  
+    <string name="superuser_access">سپر یوزر تک رسائی</string>  
+    <string name="auto_response">آٹومیٹک رسپانس</string>  
+    <string name="request_timeout">آپ کی درخواست کا وقت ختم ہو گیا ہے۔</string>  
+    <string name="superuser_notification">سپر یوزر کی نوٹیفکیشن </string>  
+    <string name="settings_su_reauth_title">اپ گریڈ کے بعد دوبارہ تصدیق کریں۔</string>  
+    <string name="settings_su_reauth_summary">ایپس کو اپ گریڈ کرنے کے بعد دوبارہ سپر یوزر کی اجازت طلب کریں۔</string>  
+    <string name="settings_su_tapjack_title">ٹیپ جیکنگ پروٹیکشن</string>  
+    <string name="settings_su_tapjack_summary">اگر سپر یوزر پرامپٹ ڈائیلاگ کسی دوسری ونڈو یا اوورلے کے پیچھے چھپا ہوا ہے، تو یہ کسی بھی صارف کے ان پٹ کا جواب نہیں دے گا۔</string>  
+    <string name="settings_su_biometric_title">بائیو میٹرک تصدیق</string>  
+    <string name="settings_su_biometric_summary">سپر یوزر کی درخواستوں کی اجازت دینے کے لیے بائیو میٹرک تصدیق کا استعمال کریں۔</string>  
+    <string name="no_biometric">غیر تعاون یافتہ ڈیوائس یا کوئی بائیو میٹرک سیٹنگز فعال نہیں ہیں۔</string>  
+    <string name="settings_customization">کسٹمائزیشن</string>  
+    <string name="setting_add_shortcut_summary">ہوم اسکرین پر ایک خوبصورت شارٹ کٹ شامل کریں اگر ایپ کو چھپانے کے بعد نام اور آئیکن کو پہچاننا مشکل ہو۔</string>  
+    <string name="settings_doh_title">HTTPS پر DNS</string>  
+    <string name="settings_doh_description">Workaround DNS poisoning in some nations</string>  
+  
+    <string name="multiuser_mode">ملٹی یوزر موڈ</string>  
+    <string name="settings_owner_only">صرف ڈیوائس کا مالک</string>  
+    <string name="settings_owner_manage">ڈیوائس کے مالک کا نظم کیا گیا۔</string>  
+    <string name="settings_user_independent">User-Independent</string>  
+    <string name="owner_only_summary">صرف مالک کو روٹ تک رسائی حاصل ہے۔</string>  
+    <string name="owner_manage_summary">صرف مالک ہی روٹ تک رسائی کا انتظام کرسکتا ہے اور درخواست کے promots وصول کرسکتا ہے۔</string>  
+    <string name="user_independent_summary">ہر صارف کے اپنے الگ الگ root کے اصول ہوتے ہیں۔</string>  
+  
+    <string name="mount_namespace_mode">ماؤنٹ نیم اسپیس موڈ</string>  
+    <string name="settings_ns_global">گلوبل نیم اسپیس</string>  
+    <string name="settings_ns_requester">Inherit نیم اسپیس </string>  
+    <string name="settings_ns_isolate">آئسولیٹڈ نیم اسپیس </string>  
+    <string name="global_summary">تمام روٹ سیشن گلوبل ماؤنٹ نیم اسپیس کا استعمال کرتے ہیں۔</string>  
+    <string name="requester_summary">روٹ سیشنز وہی نام کی جگہ حاصل کریں گے جیسا کہ درخواست کنندہ نے جہاں سے ان کا آغاز ہوا ہے۔</string>  
+    <string name="isolate_summary">ہر روٹ سیشن کے اپنے الگ الگ نام کی جگہ ہوگی۔</string>  
+  
+    <!--Notifications-->  
+    <string name="update_channel">میجسک (Magisk) اپڈیٹس</string>  
+    <string name="progress_channel">پیش رفت کے نوٹیفکیشنز</string>  
+    <string name="updated_channel">اپ ڈیٹ مکمل ہوگئی</string>  
+    <string name="download_complete">ڈاؤن لوڈ مکمل ہو گئی</string>  
+    <string name="download_file_error">فائل ڈاؤن لوڈ کرنے میں خرابی۔</string>  
+    <string name="magisk_update_title">میجسک (Magisk) اپ ڈیٹ دستیاب ہے!</string>  
+    <string name="updated_title">میجسک (Magisk) اپڈیٹ ہوگیا </string>  
+    <string name="updated_text">ایپ کھولنے کے لیے کلک کریں۔</string>  
+  
+    <!--Toasts, Dialogs-->  
+    <string name="yes">جی ہاں</string>  
+    <string name="no">نہیں</string>  
+    <string name="repo_install_title">%1$s %2$s(%3$d) انسٹال کریں</string>  
+    <string name="download">ڈاؤن لوڈ کریں</string>  
+    <string name="reboot">ری بوٹ کریں۔</string>  
+    <string name="release_notes">ریلیز نوٹس</string>  
+    <string name="flashing">فلیش ہو رہا ہے۔۔۔</string>  
+    <string name="done">ہو گیا!</string>  
+    <string name="failure">ناکام!</string>  
+    <string name="hide_app_title">میجسک Magisk ایپ کو چھپایا جا رہا ہے…</string>  
+    <string name="open_link_failed_toast">لنک کھولنے کے لیے کوئی ایپ نہیں ملی</string>  
+    <string name="complete_uninstall">ان انسٹال مکمل کریں۔</string>  
+    <string name="restore_img">امیجز کو ری سٹور کریں۔</string>  
+    <string name="restore_img_msg">ری سٹور کر رہا ہے…</string>  
+    <string name="restore_done">ری سٹوریشن ہو گئی!</string>  
+    <string name="restore_fail">اسٹاک بیک اپ موجود نہیں ہے!</string>  
+    <string name="setup_fail">سیٹ اپ ناکام ہو گیا۔</string>  
+    <string name="env_fix_title">اضافی سیٹ اپ کی ضرورت ہے۔</string>  
+    <string name="env_fix_msg">میجسک Magisk کے ٹھیک سے کام کرنے کے لیے آپ کے ڈیوائس کو اضافی سیٹ اپ کی ضرورت ہے۔ کیا آپ آگے بڑھ کر ریبوٹ کرنا چاہتے ہیں؟</string>  
+    <string name="env_full_fix_msg">مناسب طریقے سے کام کرنے کے لیے آپ کے ڈیوائس کو ریفلیش میجسک کی ضرورت ہے۔ براہ کرم ایپ کے اندر Magisk کو دوبارہ انسٹال کریں، ریکوری موڈ درست ڈیوائس کی معلومات حاصل نہیں کر سکتا۔</string>  
+    <string name="setup_msg">اینوائرمنٹ کا سیٹ اپ چل رہا ہے…</string>  
+    <string name="authenticate">تصدیق کریں۔</string>  
+    <string name="unsupport_magisk_title">غیر تعاون یافتہ Magisk ورژن</string>  
+    <string name="unsupport_magisk_msg">ایپ کا یہ ورژن %1$s سے کم Magisk ورژنز کو سپورٹ نہیں کرتا ہے۔\n\nایپ ایسا برتاؤ کرے گی جیسے کوئی Magisk انسٹال نہیں ہے، براہ کرم جلد از جلد Magisk کو اپ گریڈ کریں۔</string>  
+    <string name="unsupport_general_title">غیر معمولی حالت</string>  
+    <string name="unsupport_system_app_msg">اس ایپ کو سسٹم ایپ کے طور پر چلانا تعاون یافتہ نہیں ہے۔ براہ کرم ایپ کو یوزر ایپ میں لوٹائیں۔</string>  
+    <string name="unsupport_other_su_msg">ایک \"su\" بائنری کا پتہ چلا ہے جو Magisk سے نہیں ہے۔ براہ کرم کسی بھی مسابقتی روٹ سلوشن کو ہٹا دیں اور/یا Magisk کو دوبارہ انسٹال کریں۔</string>  
+    <string name="unsupport_external_storage_msg">میجسک Magisk بیرونی اسٹوریج پر انسٹال ہے۔ براہ کرم ایپ کو اندرونی اسٹوریج میں منتقل کریں۔</string>  
+    <string name="unsupport_nonroot_stub_msg">پوشیدہ Magisk ایپ کام کرنا جاری نہیں رکھ سکتی کیونکہ روٹ کھو گیا۔ براہ کرم اصل APK کو ری سٹور کریں۔</string>  
+    <string name="unsupport_nonroot_stub_title">@string/settings_restore_app_title</string>  
+    <string name="external_rw_permission_denied">اس فعالیت کو فعال کرنے کے لیے اسٹوریج کی اجازت دیں۔</string>  
+    <string name="post_notifications_denied">اس فعالیت کو فعال کرنے کے لیے اطلاعات کو اجازت دیں۔</string>  
+    <string name="install_unknown_denied">اس فعالیت کو فعال کرنے کے لیے "install unknown apps" کی اجازت دیں۔</string>  
+    <string name="add_shortcut_title">ہوم اسکرین پر شارٹ کٹ شامل کریں۔</string>  
+    <string name="add_shortcut_msg">اس ایپ کو چھپانے کے بعد، اس کے نام اور آئیکن کو پہچاننا مشکل ہو سکتا ہے۔ کیا آپ ہوم اسکرین پر ایک خوبصورت شارٹ کٹ شامل کرنا چاہتے ہیں؟</string>  
+    <string name="app_not_found">اس کارروائی کو سنبھالنے کے لیے کوئی ایپ نہیں ملی</string>  
+    <string name="reboot_apply_change">تبدیلیاں لاگو کرنے کے لیے ری بوٹ کریں۔</string>  
+    <string name="restore_app_confirmation">یہ چھپی ہوئی ایپ کو اصل ایپ پر واپس ری سٹور کر دے گا۔ کیا آپ واقعی یہ کرنا چاہتے ہیں؟</string>  
+  
+</resources>  
+ 
+
